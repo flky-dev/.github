@@ -12,7 +12,7 @@
 
 ### analytics.flky.dev
 
-[![](https://img.shields.io/badge/GitHub-Visit-%23000?style=flat&logo=github)](https://github.com/flky-dev/Ackee)
+[![](https://img.shields.io/badge/GitHub-Visit-%23000?style=flat&logo=github)](https://github.com/flky-dev/analytics.flky.dev)
 [![analytics flky dev](https://user-images.githubusercontent.com/64008721/167498644-0ceb8903-4ea1-4c94-a45a-6ba094e6b573.png)](https://analytics.flky.dev)
 
 ### status.flky.dev
